@@ -1,0 +1,16 @@
+.navbar-brand {
+    padding: 0px;
+  }
+  .navbar-brand>img {
+    height: 100%;
+    padding: 2px;    
+    width: auto;
+  }  
+
+.borderlist {
+    list-style-position:inside;
+    border: .5px solid rgba(153, 147, 147, 0.459);
+}
+nav .active{
+    font-weight: bold;
+}
