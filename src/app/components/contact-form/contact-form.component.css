@@ -1,0 +1,21 @@
+.margin-30{
+    margin: 30px;
+}
+.box-shadow{    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);    
+}
+
+.border-grey{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.margin-10{
+    margin: 10px;
+}
+.margin-15{
+    margin: 15px;
+}
+.padd-4{
+	padding: 4px;
+}
